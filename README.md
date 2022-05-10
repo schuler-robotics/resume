@@ -1,5 +1,5 @@
 ## Ray Schuler
-_Electrical, Software, and Mechanical Engineer_
+_Electrical, Software, and Mechanical Engineer_<br>
 _Email:_ <a href="mailto:schuler@usa.com">schuler at usa.com</a><br>
 _Download:_ <a href="https://github.com/schuler-robotics/resume/blob/master/images/schuler-resume.pdf">schuler-resume.pdf</a><br>
 
@@ -30,13 +30,13 @@ Voice Controlled Lamp (Golang, Pico) <a href="https://github.com/schuler-robotic
 ##### IBM/Globalfoundries 2008 - 2021
 Senior Analog Circuit Designer, Software Team Lead, Product Development and Characterization, Software Development in C/C++, Python, Lisp, Semiconductor Modeling, Customer Reference Designs, Development and Implementation of STDF Compliant API, RF Tranceiver Antenna Switch Controller <a href="https://bitbucket.org/rschule2/design/raw/c44039840733abbd1a6b9e8285fb5a20806f0543/scp-application-note-20160915a-public.pdf"> [Link]</a>
 
-##### Linear Technology} 2002 - 2008
-Senior Analog Circuit Designer, Interface Product Design, Field Fail Analysis and Correction, Designed First Commercial RS485 Transceiver with Integrated Termination <a href="http://www.analog.com/media/en/technical-documentation/lt-journal-article/LTMag-V16N02-07-LTC2859-Schuler.pdf> [Link]</a>
+##### Linear Technology 2002 - 2008
+Senior Analog Circuit Designer, Interface Product Design, Field Fail Analysis and Correction, Designed First Commercial RS485 Transceiver with Integrated Termination <a href="http://www.analog.com/media/en/technical-documentation/lt-journal-article/LTMag-V16N02-07-LTC2859-Schuler.pdf"> [Link]</a>
 
-##### Champlain College} 2012 - 2014
+##### Champlain College 2012 - 2014
 Adjunct Professor of Computer Science, Unix Systems Programming, Collaborative FOSS Software,  STEM Tutoring
 
-### Education_
+### Education
 ##### Michigan Technological University, Houghton, MI USA
 BSEE Microelectronics and Control Systems
 ##### National Technological University, USA
