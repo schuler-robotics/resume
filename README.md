@@ -34,7 +34,7 @@ _Senior Analog Circuit Designer_, Product Development and Characterization, Engi
 Senior Analog Circuit Designer, Interface Product Design, Field Fail Analysis and Correction, Designed First Commercial RS485 Transceiver with Integrated Termination <a href="http://www.analog.com/media/en/technical-documentation/lt-journal-article/LTMag-V16N02-07-LTC2859-Schuler.pdf"> [Link]</a>
 
 ##### Champlain College 2012 - 2014
-Adjunct Professor of Computer Science, Unix Systems Programming, Collaborative FOSS Software,  STEM Tutoring <a href=https://bitbucket.org/rschule2/champlain/src/master/"> [Link]</a>
+Adjunct Professor of Computer Science, Unix Systems Programming, Collaborative FOSS Software,  STEM Tutoring <a href="https://bitbucket.org/rschule2/champlain/src/master/"> [Link]</a>
 
 ### Education
 ##### Michigan Technological University, Houghton, MI USA
