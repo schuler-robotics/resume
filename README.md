@@ -1,7 +1,7 @@
 ## Ray Schuler
 _Electrical, Software, and Mechanical Engineer_<br>
 _Email:_ <a href="mailto:schuler@usa.com">schuler at usa.com</a><br>
-_Download:_ <a href="https://github.com/schuler-robotics/resume/blob/master/images/schuler-resume.pdf">schuler-resume.pdf?raw=true</a><br>
+_Download:_ <a href="https://github.com/schuler-robotics/resume/blob/master/images/schuler-resume.pdf?raw=true">schuler-resume.pdf</a><br>
 
 ### Analog Circuit Design
 Board and Chip Level Design, CMOS/BiCMOS/GaN, Tranceivers, Switch Mode Power Supplies, Charge Pumps, High Voltage Drivers, Analog to Digital Conversion, Precision References
@@ -24,7 +24,7 @@ Git, GCC, Unix ABI, Cadence Spectre/Virtuoso, LTSpice, Freecad, LaTeX
 
 ### Projects
 
-##### Personal
+##### Personal 2022
 Voice Controlled Lamp (Golang, Pico) <a href="https://github.com/schuler-robotics/detectword_pico"> [link]</a>, Ultrasonic Rangefinder (C/C++, Pico) <a href="https://github.com/schuler-robotics/ultrasonic-rangefinder"> [link]</a>
 
 ##### IBM/Globalfoundries 2008 - 2021
