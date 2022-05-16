@@ -25,7 +25,7 @@ Git, GCC, Unix ABI, Cadence Spectre/Virtuoso, LTSpice, Freecad, LaTeX
 ### Projects
 
 ##### Personal 2022
-Voice Controlled Lamp (Golang, Pico) <a href="https://github.com/schuler-robotics/detectword_pico"> [Link]</a>, Ultrasonic Rangefinder (C/C++, Pico) <a href="https://github.com/schuler-robotics/ultrasonic-rangefinder"> [Link]</a>, Generative Art (Python, C++) <a href="https://bitbucket.org/rschule2/design/src/c44039840733abbd1a6b9e8285fb5a20806f0543/Style%20Transfer%20Images/knoll-2017-01La2-3400-gmp.jpg?at=master&fileviewer=file-view-default"> [Link]</a>
+Voice Controlled Lamp (Golang, Pico) <a href="https://github.com/schuler-robotics/detectword_pico"> [Link]</a>, Ultrasonic Rangefinder (C/C++, Pico) <a href="https://github.com/schuler-robotics/ultrasonic-rangefinder"> [Link]</a>, Generative Art (Python, C++) <a href="https://bitbucket.org/rschule2/design/src/c44039840733abbd1a6b9e8285fb5a20806f0543/Style%20Transfer%20Images/knoll-2017-01La2-3400-gmp.jpg?at=master&fileviewer=file-view-default"> [Sample]</a><a href="https://bitbucket.org/rschule2/design/src/master/"> [Link]</a> 
 
 ##### IBM/Globalfoundries 2008 - 2021
 _Senior Analog Circuit Designer_, Product Development and Characterization, Engineering Team Lead and Mentor (BTV, Shanghai, Bangalore), Software Development in C/C++, Python, Lisp, Semiconductor Modeling, Customer Reference Designs, Development and Implementation of STDF Compliant API, RF Tranceiver Antenna Switch Controller <a href="https://bitbucket.org/rschule2/design/raw/c44039840733abbd1a6b9e8285fb5a20806f0543/scp-application-note-20160915a-public.pdf"> [Link]</a>
